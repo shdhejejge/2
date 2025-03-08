@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackContext
 
 import os
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("7432153187:AAHhVYbK5PCkEHN7TELau_VC9KktKOvPT9I")
 ADMIN_ID = 8179218740  
 
 AUTHORIZED_USERS = {}
